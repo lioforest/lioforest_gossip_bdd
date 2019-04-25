@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+la bdd Gossip nouvelle version, encore et toujours.
 
-Things you may want to cover:
+Pensez à bien installer les gem.
 
-* Ruby version
+Je me suis arrêté e/ les tags 
 
-* System dependencies
+Je n'ai pas fait les messages privés  en encore moins la partie " === Les exercices ci-dessous sont optionnels et ne seront pas évalué ==="
 
-* Configuration
+Amusez-vous bien pour cette correction!!!!
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
